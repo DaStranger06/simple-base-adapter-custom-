@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Simple_Base_Adapter_with_custom_adapter"
